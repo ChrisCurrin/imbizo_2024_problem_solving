@@ -35,9 +35,11 @@ A _functional approach_ to learning code. _Why-based_ in contrast to _fact-based
 
 ### Colab
 
-1. <https://colab.research.google.com/github/ChrisCurrin/imbizo_2023_creative_approaches/blob/main/1%20-%20the%20neuron.ipynb>
-2. <https://colab.research.google.com/github/ChrisCurrin/imbizo_2023_creative_approaches/blob/main/2%20-%20synapses.ipynb>
-3. <https://colab.research.google.com/github/ChrisCurrin/imbizo_2023_creative_approaches/blob/main/3%20-%20simulator.ipynb>
+1. <https://colab.research.google.com/github/ChrisCurrin/imbizo_2024_problem_solving/blob/main/1%20-%20the%20neuron.ipynb>
+2. <https://colab.research.google.com/github/ChrisCurrin/imbizo_2024_problem_solving/blob/main/2%20-%20debugging.ipynb>
+3. <https://colab.research.google.com/github/ChrisCurrin/imbizo_2024_problem_solving/blob/main/3%20-%20synapses.ipynb>
+4. <https://colab.research.google.com/github/ChrisCurrin/imbizo_2024_problem_solving/blob/main/4%20-%20analysis.ipynb>
+5. <https://colab.research.google.com/github/ChrisCurrin/imbizo_2024_problem_solving/blob/main/5%20-%20simulator.ipynb>
 
 ## Coding
 
