@@ -41,6 +41,18 @@ A _functional approach_ to learning code. _Why-based_ in contrast to _fact-based
 4. <https://colab.research.google.com/github/ChrisCurrin/imbizo_2024_problem_solving/blob/main/4%20-%20analysis.ipynb>
 5. <https://colab.research.google.com/github/ChrisCurrin/imbizo_2024_problem_solving/blob/main/5%20-%20simulator.ipynb>
 
+## General
+
+Coding is *just* problem-solving using a formal language (in this case python) to convert instructions we give into some form of processing.
+Most of programming is figuring out which instructions are possible/allowed (aka the **syntax**) and which are appropriate for your problem (aka the **semantics**) - just because something compiles (no syntax errors) does not mean it is correct in solving the problem (or the best way to solve a problem).
+
+> "A compiler or interpreter could complain about syntax errors. Your co-workers will complain about semantics."
+
+- [Test often. Test well](https://en.wikipedia.org/wiki/Test-driven_development).
+- Read and contribute to [The role of scientific code: How can we write better code](https://docs.google.com/document/d/11NcnnCllrHD19EpHc2wSjdD_5mimqClDkdmweZkOPrk/edit), i.e. use our laboratory more effectively?
+- [The Zen of Python](https://peps.python.org/pep-0020/)
+- Use a good file structure (https://drivendata.github.io/cookiecutter-data-science)
+
 ## Coding
 
 ### Style
